@@ -420,7 +420,12 @@ img {
   line-height: 1.17;
   font-family: "Raleway", sans-serif;
 }
-
+.footer-container {
+  display: flex;
+}
+.footer-one {
+  margin-right: 120px;
+}
 .page-footer-text {
   font-weight: 400;
   font-size: 16px;
@@ -454,7 +459,7 @@ img {
   justify-content: center;
 }
 .footer-list {
-  widows: 40px;
+  width: 40px;
   height: 40px;
 }
 .footer-social-link {
