@@ -428,7 +428,9 @@ img {
 }
 .footer-container {
   display: flex;
+  align-items: baseline;
 }
+
 .footer-one {
   margin-right: 120px;
 }
@@ -452,10 +454,6 @@ img {
   letter-spacing: 0.02em;
   color: #fff;
   margin-bottom: 16px;
-}
-
-.footer-two {
-  align-items: baseline;
 }
 
 .footer-items {
